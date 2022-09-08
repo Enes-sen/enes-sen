@@ -1,0 +1,31 @@
+{
+    "name": "enes-sen",
+    "version": "1.0.0",
+    "description": "deneme projesi",
+    "main": "enes.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "enes": "echo'Benim Adim Enes'",
+        "start": "node enes.js"
+    },
+    "keywords": [
+        "deneme",
+        "enes",
+        "paket",
+        "sen"
+    ],
+    "author": "Enes Şen",
+    "license": "ISC",
+    "dependencies": {
+        "mongoose": "^6.5.5",
+        "nodemailer": "^6.7.8",
+        "simple-is": "^0.2.0"
+    },
+    "devDependencies": {
+        "webpack-cli": "^4.10.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Enes-sen/enes-sen.git"
+    }
+}
