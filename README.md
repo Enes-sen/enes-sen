@@ -19,7 +19,7 @@ I'm currently building projects to improve my skills through practice, with a fo
 
 ## What I Want to Build
 
-Software that solves a specific problem, works in practice, and has code that can be examined is as simple and understandable as possible.
+Software that solves a specific problem, works effectively in practice, and has code that can be easily reviewed should be as simple and understandable as possible.
 
 ## Contact
 
